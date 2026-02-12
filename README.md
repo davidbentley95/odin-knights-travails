@@ -1,8 +1,3 @@
-Love it. You’ve earned a proper README. 😄
-Here’s a clean, professional one tailored to your implementation and level of understanding.
-
----
-
 # ♞ Knight’s Travails (BFS Shortest Path)
 
 ## 📌 Overview
